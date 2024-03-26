@@ -6,13 +6,13 @@ html {
 
 }
 
-header {
+/* header {
     height: 500px;
     background-color: blue;
     border-radius: 0% 0% 5% 5%;
     margin: 0px;
 }
-
+ */
 body {
     display: flex;
     flex-direction: column;
